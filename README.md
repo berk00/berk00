@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 <a>
     <img height="30" src="https://user-images.githubusercontent.com/60429097/178164811-0ecbf314-9177-44d5-896c-82cd5052ada4.png"/>
 
-
+<a>
     <img height="30" src="https://img.icons8.com/color/344/visual-studio-code-2019.png"/>
 
-
+<a>
     <img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/315_Spotify_logo-128.png"/>
 <a>
 
