@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![Behance Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berk-canbaz-26ba43240/)
 
 <a>
-    <img height="50" src="(https://user-images.githubusercontent.com/60429097/178164811-0ecbf314-9177-44d5-896c-82cd5052ada4.png)"/>
+    <img height="50" src="https://user-images.githubusercontent.com/60429097/178164811-0ecbf314-9177-44d5-896c-82cd5052ada4.png"/>
 </a>
 <a href="https://www.linkedin.com/in/zluvsand/">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
