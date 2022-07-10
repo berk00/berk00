@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 #### Languages and Tools:
 
 <a>
-    <img height="30" src="https://user-images.githubusercontent.com/60429097/178164811-0ecbf314-9177-44d5-896c-82cd5052ada4.png"/>
+    <img height="30" src="https://img.icons8.com/color/344/visual-studio--v2.png"/>
 
 <a>
     <img height="30" src="https://img.icons8.com/color/344/visual-studio-code-2019.png"/>
@@ -38,3 +38,4 @@ Here are some ideas to get you started:
 #### My GitHub Stats
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=berk00&show_icons=true&theme=github_dark) 
 
+![](https://komarev.com/ghpvc/?username=berk00)
