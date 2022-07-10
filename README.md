@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 
 
 
- <a href="https://www.behance.net/berkcanbaz"><img height="30" src="https://img.icons8.com/color/452/behance.png"/></a> <a href="https://www.linkedin.com/in/berk-canbaz-26ba43240/"><img height="30" src="https://img.icons8.com/color/452/linkedin.png"/></a>
+ <a href="https://www.behance.net/berkcanbaz"><img height="30" src="https://img.icons8.com/color/452/behance.png"/></a> <a href="https://www.linkedin.com/in/berk-canbaz-26ba43240/"><img height="30" src="https://img.icons8.com/color/452/linkedin.png"/></a><a href="https://www.youtube.com/channel/UCQ4UQxRk4Ck_OfqEd1Oir9w"><img height="30" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png"/></a>
+ 
+ 
 
  
 
