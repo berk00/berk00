@@ -18,25 +18,24 @@ Here are some ideas to get you started:
 
 #### Connect with me:
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/berk00) 
-[![Behance Badge](https://img.icons8.com/color/452/behance.png)](https://www.behance.net/berkcanbaz)
+ <img height="30" src"https://img.icons8.com/color/452/behance.png"/>(https://www.behance.net/berkcanbaz)
 [![Behance Badge](https://img.icons8.com/color/452/linkedin.png)](https://www.linkedin.com/in/berk-canbaz-26ba43240/)
 [![Behance Badge](https://img.icons8.com/color/452/linkedin.png)](https://www.linkedin.com/in/berk-canbaz-26ba43240/)
 
 #### Languages and Tools:
 
 
-  <img height="30" src="https://img.icons8.com/color/452/c-sharp-logo.png"/><img height="30" src="https://img.icons8.com/color/452/c-plus-plus-logo.png"/> <img height="30" src="https://img.icons8.com/color/344/visual-studio--v2.png"/>  <img height="30" src="https://img.icons8.com/color/344/visual-studio-code-2019.png"/> <img height="30" src="https://img.icons8.com/color/452/javascript--v1.png"/> <img height="30" src="https://img.icons8.com/color/452/css3.png"/> <img height="30" src="https://img.icons8.com/color/344/html-5--v1.png"/><img height="30" src="https://img.icons8.com/color/452/java-coffee-cup-logo--v1.png"/> <img height="30" src="https://img.icons8.com/color/452/mysql-logo.png"/> <img height="30" src="https://img.icons8.com/color/452/google-firebase-console.png"/><img height="30" src="https://img.icons8.com/color/452/microsoft-sql-server.png"/> <img height="30" src="https://img.icons8.com/color/452/unity.png"/>  <img height="30" src="https://img.icons8.com/color/344/dart.png"/><img height="30" src="https://img.icons8.com/color/452/flutter.png"/> <img height="30" src="https://img.icons8.com/color/452/javascript--v1.png"/>
+  <img height="30" src="https://img.icons8.com/color/452/c-sharp-logo.png"/><img height="30" src="https://img.icons8.com/color/452/c-plus-plus-logo.png"/> <img height="30" src="https://img.icons8.com/color/344/visual-studio--v2.png"/>  <img height="30" src="https://img.icons8.com/color/344/visual-studio-code-2019.png"/> <img height="30" src="https://img.icons8.com/color/452/javascript--v1.png"/> <img height="30" src="https://img.icons8.com/color/452/css3.png"/> <img height="30" src="https://img.icons8.com/color/344/html-5--v1.png"/><img height="30" src="https://img.icons8.com/color/452/java-coffee-cup-logo--v1.png"/> <img height="30" src="https://img.icons8.com/color/452/mysql-logo.png"/> <img height="30" src="https://img.icons8.com/color/452/google-firebase-console.png"/><img height="30" src="https://img.icons8.com/color/452/microsoft-sql-server.png"/> <img height="30" src="https://img.icons8.com/color/452/unity.png"/>  <img height="30" src="https://img.icons8.com/color/344/dart.png"/><img height="30" src="https://img.icons8.com/color/452/flutter.png"/> <img height="30" src="https://img.icons8.com/color/452/javascript--v1.png"/><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png"/>   <img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png"/>    <img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png"/>
 
-   <img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png"/>
+
+
+   
 
 
 
 
 
   
-   <img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png"/>
-    <img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png"/>
     
  
 
