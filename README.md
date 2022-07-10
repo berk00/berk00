@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<iframe src="https://giphy.com/embed/kHU8W94VS329y" width="480" height="267" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kHU8W94VS329y">via GIPHY</a></p>
 
+<img height="30" src="https://media4.giphy.com/media/kHU8W94VS329y/giphy.gif?cid=ecf05e477oofgfs1ha7oj67ojegjmfrqtru3tnidc3wd8grh&rid=giphy.gif&ct=g"/>
 
 #### Connect with me:
 
