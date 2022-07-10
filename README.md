@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/berkcanbaz)
 [![Behance Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berk-canbaz-26ba43240/)
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
 #### My GitHub Stats
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=berk00&show_icons=true&theme=github_dark) 
 
