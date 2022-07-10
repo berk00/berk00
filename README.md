@@ -61,4 +61,4 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=berk00)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berk00&hide=javascript,html)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berk00&hide=javascript,html#gh-light-mode-only)
