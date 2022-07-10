@@ -19,5 +19,8 @@ Here are some ideas to get you started:
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/berk00) 
 [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)]([link](https://www.behance.net/berkcanbaz)) 
+[![Behance Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([link](https://www.linkedin.com/in/berk-canbaz-26ba43240/) 
+
+
 
 view rawgistfile1.txt hosted with ❤ by GitHub
