@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 [![Behance Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berk-canbaz-26ba43240/)
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=berk00&show_icons=true&theme=gradient) 
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=berk00&show_icons=true&theme=stats card) 
 
