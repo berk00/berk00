@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 
 
-[![Github Badge](https://github.com/berk00)](link) 
-[![Behance Badge]https://www.behance.net/berkcanbaz)](link) 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/berk00) 
+[![Behance Badge](https://www.iconpacks.net/icons/2/free-behance-icon-2161-thumb.png)]([link](https://www.behance.net/berkcanbaz)) 
 view rawgistfile1.txt hosted with ❤ by GitHub
