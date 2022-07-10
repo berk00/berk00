@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 
 #### Connect with me:
 
- <img height="30" src"https://img.icons8.com/color/452/linkedin.png"/>
 
- <img height="30" src="https://img.icons8.com/color/452/behance.pn"/>
+
+ <img height="30" src="https://img.icons8.com/color/452/behance.png"/> <img height="30" src="https://img.icons8.com/color/452/linkedin.png"/>
+
  
 
 
