@@ -22,15 +22,17 @@ Here are some ideas to get you started:
 [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/berkcanbaz)
 [![Behance Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berk-canbaz-26ba43240/)
 
+#### Languages and Tools:
+
 <a>
     <img height="30" src="https://user-images.githubusercontent.com/60429097/178164811-0ecbf314-9177-44d5-896c-82cd5052ada4.png"/>
-</a>
-<a>
-    <img height="30" src="https://icons8.com/icons/set/visual-studio-code.png"/>
-</a>
-<a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
+
+
+    <img height="30" src="https://img.icons8.com/color/344/visual-studio-code-2019.png"/>
+
+
     <img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/315_Spotify_logo-128.png"/>
-</a>
+<a/>
 
 
 #### My GitHub Stats
