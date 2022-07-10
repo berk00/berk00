@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
     <img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/315_Spotify_logo-128.png"/>
-<a/>
+<a>
 
 
 #### My GitHub Stats
