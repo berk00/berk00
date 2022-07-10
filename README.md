@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+[![Github Badge](https://github.com/berk00)](link) 
+[![Behance Badge]https://www.behance.net/berkcanbaz)](link) 
+view rawgistfile1.txt hosted with ❤ by GitHub
