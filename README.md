@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![Behance Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berk-canbaz-26ba43240/)
 
 [![MasterHead](![image](https://user-images.githubusercontent.com/60429097/178164756-f7c29f64-449b-4636-9ad9-0febd62c0b61.png)
-)]
+
 
 
 #### My GitHub Stats
