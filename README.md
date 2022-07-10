@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-#Connect with me:
+# Connect with me:
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/berk00) 
 [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/berkcanbaz)
