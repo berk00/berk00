@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 
 #### Connect with me:
 <a href="https://www.behance.net/berkcanbaz">
- <img height="30" src"https://img.icons8.com/color/452/behance.png"/><a/>
+ <img height="30" src"https://img.icons8.com/color/452/behance.png"/>
+ </a>
  <a href="https://www.linkedin.com/in/berk-canbaz-26ba43240/">
-<img height="30" src"https://img.icons8.com/color/452/linkedin.png"<a/>
+<img height="30" src"https://img.icons8.com/color/452/linkedin.png"/>
+     </a>
 
 
 #### Languages and Tools:
