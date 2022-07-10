@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img height="30" src="https://media4.giphy.com/media/kHU8W94VS329y/giphy.gif?cid=ecf05e477oofgfs1ha7oj67ojegjmfrqtru3tnidc3wd8grh&rid=giphy.gif&ct=g"/>
+<img height="90" src="https://media4.giphy.com/media/kHU8W94VS329y/giphy.gif?cid=ecf05e477oofgfs1ha7oj67ojegjmfrqtru3tnidc3wd8grh&rid=giphy.gif&ct=g"/>
 
 #### Connect with me:
 
