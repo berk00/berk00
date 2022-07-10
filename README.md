@@ -60,3 +60,5 @@ Here are some ideas to get you started:
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=berk00&show_icons=true&theme=github_dark) 
 
 ![](https://komarev.com/ghpvc/?username=berk00)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berk00&layout=compact)](https://github.com/berk00)
