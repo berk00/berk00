@@ -24,17 +24,17 @@ Here are some ideas to get you started:
 
 #### Languages and Tools:
 
-<a>
-    <img height="30" src="https://img.icons8.com/color/344/visual-studio--v2.png"/>
 
-<a/>
-    <a>
-    <img height="30" src="https://img.icons8.com/color/344/visual-studio-code-2019.png"/>
+   [<img height="30" src="https://img.icons8.com/color/344/visual-studio--v2.png"/>]
 
-<a/>
-        <a>
-    <img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/315_Spotify_logo-128.png"/>
-<a/>
+
+    
+    [<img height="30" src="https://img.icons8.com/color/344/visual-studio-code-2019.png"/>]
+
+
+      
+    [<img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/315_Spotify_logo-128.png"/>]
+
 
 
 #### My GitHub Stats
