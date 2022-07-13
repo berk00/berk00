@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 -->
 
 
-<img height="180" src="https://media0.giphy.com/media/toXKzaJP3WIgM/giphy.gif?cid=ecf05e47mhtw97qh3l1yfoj7nlt58c0actlh38nc7weyzj9m&rid=giphy.gif&ct=g"/>
+<div align="left"><img height="180" src="https://media0.giphy.com/media/toXKzaJP3WIgM/giphy.gif?cid=ecf05e47mhtw97qh3l1yfoj7nlt58c0actlh38nc7weyzj9m&rid=giphy.gif&ct=g"/>
+</div>
 
 #### Connect with me:
 
@@ -61,10 +62,12 @@ Here are some ideas to get you started:
 
 
 #### My GitHub Stats
+
+
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=berk00&show_icons=true&theme=github_dark) 
 
 ![](https://komarev.com/ghpvc/?username=berk00)
-<br>
+
 <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berk00&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 
 <img src="https://activity-graph.herokuapp.com/graph?username=berk00&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
