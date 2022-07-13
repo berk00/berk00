@@ -70,8 +70,3 @@ Here are some ideas to get you started:
 <img src="https://activity-graph.herokuapp.com/graph?username=berk00&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/berk00/getirgotur-kargotakip-uygulamasi" title="getir götür cargo tracking"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=berk00&repo=getirgotur-kargotakip-uygulamasi&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/berk00/Nodemcu-Database-Connection" title="Nodemcu Database Connection"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=berk00&repo=Nodemcu-Database-Connection&theme=react&border_color=61dafb&border_radius=10"></a>
- </div>
