@@ -33,11 +33,6 @@ Here are some ideas to get you started:
  
 
 
-#### Languages and Tools:
-
-
-  <img height="30" src="https://img.icons8.com/color/452/c-sharp-logo.png"/> <img height="30" src="https://img.icons8.com/color/452/c-plus-plus-logo.png"/> <img height="30" src="https://img.icons8.com/color/344/visual-studio--v2.png"/> <img height="30" src="https://img.icons8.com/color/344/visual-studio-code-2019.png"/> <img height="30" src="https://img.icons8.com/color/452/css3.png"/> <img height="30" src="https://img.icons8.com/color/344/html-5--v1.png"/> <img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png"/> <img height="30" src="https://img.icons8.com/color/452/mysql-logo.png"/> <img height="30" src="https://img.icons8.com/color/452/google-firebase-console.png"/> <img height="30" src="https://img.icons8.com/color/452/microsoft-sql-server.png"/> <img height="30" src="https://img.icons8.com/color/344/dart.png"/> <img height="30" src="https://img.icons8.com/color/452/flutter.png"/> <img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png"/> <img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png"/> <img height="30" src="https://img.icons8.com/fluency/512/figma.png"/>
-
 
 
    
@@ -59,15 +54,6 @@ Here are some ideas to get you started:
     
 
 
-
-#### My GitHub Stats
-
-
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=berk00&show_icons=true&theme=github_dark) 
-
-<!-- ![](https://komarev.com/ghpvc/?username=berk00) -->
-
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berk00&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 
 
 
